@@ -5,7 +5,7 @@ kramdown:
   hard_wrap: false
   parse_block_html: true
 github: academicpages
-url: https://academicpages.github.io/group-meeting 
+url: https://scottcpeterson.github.io/group-meeting 
 name: Your Group Name
 description: An initial blog and site for your group meeting
 twitter: yourtwitterhandle
